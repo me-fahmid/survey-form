@@ -1,4 +1,3 @@
-# survey-form
 # Student Feedback Survey Form 🎓
 
 This is a **Survey Form Project** completed as part of the FreeCodeCamp Responsive Web Design Certification.  
@@ -49,4 +48,4 @@ The goal of this project is to create a form that collects user information and 
 
 ## 🔗 Live Demo
 
-👉 View the website here:
+👉 View the website here:https://me-fahmid.github.io/survey-form/
